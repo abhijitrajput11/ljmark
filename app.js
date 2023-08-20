@@ -9736,7 +9736,7 @@ app.post('/check', (req, res) => {
         STUDENTNAME: "VAGHELA YASHRAJSINH YOGENDRASINH",
         DMT1: 12,
         COAT1: 16.5,
-        DMT2: 1,
+        DMT2: 12,
         FCSP2T1: 11,
         FSD2T1: 13,
         FSD2T2: 21,
