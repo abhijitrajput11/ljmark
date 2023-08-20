@@ -16,7 +16,26 @@ app.use(express.static(staticpath, { index: "index.html" }));
 
 
 app.post('/check', (req, res) => {
-
+document.addEventListener('contextmenu',function(e){
+        e.preventDefault();
+      })
+      document.onkeydown = function (e) {
+        if (event.keyCode == 123) {
+          return false;
+        }
+        if (event.ctrlKey && event.shiftKey && event.keyCode == 'I'.charCodeAt(0)) {
+          return false;
+        }
+        if (event.ctrlKey && event.shiftKey && event.keyCode == 'C'.charCodeAt(0)) {
+          return false;
+        }
+        if (event.ctrlKey && event.shiftKey && event.keyCode == 'J'.charCodeAt(0)) {
+          return false;
+        }
+        if (event.ctrlKey && event.keyCode == 'U'.charCodeAt(0)) {
+          return false;
+        }
+      }
   // var n = document.getElementById("dig").value;
   // var c = document.getElementById("class").value;
   // console.log(n)
@@ -15127,25 +15146,6 @@ app.post('/check', (req, res) => {
   }
 });
 
-document.addEventListener('contextmenu',function(e){
-        e.preventDefault();
-      })
-      document.onkeydown = function (e) {
-        if (event.keyCode == 123) {
-          return false;
-        }
-        if (event.ctrlKey && event.shiftKey && event.keyCode == 'I'.charCodeAt(0)) {
-          return false;
-        }
-        if (event.ctrlKey && event.shiftKey && event.keyCode == 'C'.charCodeAt(0)) {
-          return false;
-        }
-        if (event.ctrlKey && event.shiftKey && event.keyCode == 'J'.charCodeAt(0)) {
-          return false;
-        }
-        if (event.ctrlKey && event.keyCode == 'U'.charCodeAt(0)) {
-          return false;
-        }
-      }
+
 
 app.listen(process.env.PORT || port );
