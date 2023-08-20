@@ -1,0 +1,144 @@
+
+html {
+  font-size: 17px;
+}
+
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+body {
+  background-image: url(../img/dash-bg-03.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+.tm-mt-big {
+  margin-top: 70px;
+}
+
+.tm-mt-small {
+  margin-top: 20px;
+}
+
+.tm-block {
+  padding: 50px 45px;
+}
+
+
+.tm-block-title {
+  font-size: 1.4rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+
+
+
+.tm-content-row {
+  justify-content: space-between;
+  margin-left: -20px;
+  margin-right: -20px; /* To offset col padding */
+}
+
+.tm-col {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 50px;
+}
+
+.tm-col-big {
+  width: 39%;
+}
+
+.tm-col-small {
+  margin-top: 15px;
+  width: 21.95%;
+}
+
+.tm-link-black {
+  color: black;
+}
+
+
+ol {
+  margin-bottom: 0;
+}
+
+
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1630px;
+  }
+}
+
+
+
+
+
+@media (max-width: 1199px) {
+  .tm-col-big,
+  .tm-col-small {
+    width: 49.65%;
+  }
+
+}
+
+@media (max-width: 991px) {
+  .tm-col-big,
+  .tm-col-small {
+    width: 100%;
+    min-height: 383px;
+    height: auto;
+  }
+  .font{
+    font-size: 15px;
+  }
+  .tm-block {
+    padding: 30px;
+  }
+
+  .tm-table-actions-row {
+    display: block;
+  }
+
+  .tm-table-actions-col-right {
+    text-align: left;
+    margin-top: 30px;
+  }
+
+  .tm-edit-product-row {
+    flex-direction: column-reverse;
+  }
+}
+
+
+
+@media (max-width: 574px) {
+  
+
+  body {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .tm-mt-big {
+    margin-top: 45px;
+  }
+}
