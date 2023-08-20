@@ -19208,6 +19208,7 @@ app.post('/check', (req, res) => {
                 <div class="tm-col tm-col-small abc">
                     <div class="bg-white tm-block h-100 font">
                       <p class='font'>Name: ${marks[i].STUDENTNAME}</p><br>
+                      <h4>Rank: ${marks[i].RANK}</h4><br>
                       <h2>Total: ${Total}</h2>
                     </div>
                 </div>
