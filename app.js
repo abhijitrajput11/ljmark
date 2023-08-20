@@ -19189,9 +19189,9 @@ app.post('/check', (req, res) => {
     <title>Marksheet | Abhijit</title>
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
-    <link rel="stylesheet" href="fontawesome.min.css">
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="tooplate.css">
+    <link rel="stylesheet" href="./fontawesome.min.css">
+    <link rel="stylesheet" href="./bootstrap.min.css">
+    <link rel="stylesheet" href="./tooplate.css">
 </head>
 
 <body id="reportsPage">
@@ -19234,10 +19234,10 @@ app.post('/check', (req, res) => {
 
         </div>
     </div>
-    <script src="jquery-3.3.1.min.js"></script>
-    <script src="moment.min.js"></script>
-    <script src="utils.js"></script>
-    <script src="Chart.min.js"></script>
+    <script src="./jquery-3.3.1.min.js"></script>
+    <script src="./moment.min.js"></script>
+    <script src="./utils.js"></script>
+    <script src="./Chart.min.js"></script>
     <script>
 
     document.addEventListener('contextmenu',function(e){
