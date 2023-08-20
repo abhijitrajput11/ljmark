@@ -15,27 +15,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(staticpath, { index: "index.html" }));
 
 
-document.addEventListener('contextmenu',function(e){
-        e.preventDefault();
-      })
-      document.onkeydown = function (e) {
-        if (event.keyCode == 123) {
-          return false;
-        }
-        if (event.ctrlKey && event.shiftKey && event.keyCode == 'I'.charCodeAt(0)) {
-          return false;
-        }
-        if (event.ctrlKey && event.shiftKey && event.keyCode == 'C'.charCodeAt(0)) {
-          return false;
-        }
-        if (event.ctrlKey && event.shiftKey && event.keyCode == 'J'.charCodeAt(0)) {
-          return false;
-        }
-        if (event.ctrlKey && event.keyCode == 'U'.charCodeAt(0)) {
-          return false;
-        }
-      }
-
 app.post('/check', (req, res) => {
 
   // var n = document.getElementById("dig").value;
