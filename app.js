@@ -19302,7 +19302,7 @@ app.post('/check', (req, res) => {
 
         function drawLineChart() {
             if ($("#lineChart").length) {
-                ctxLine = document.getElementById("lineChart").getContext(2d");
+                ctxLine = document.getElementById("lineChart").getContext("2d");
                 optionsLine = {
                     scales: {
                         yAxes: [
