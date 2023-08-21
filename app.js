@@ -19363,7 +19363,7 @@ app.post('/check', (req, res) => {
 
         function drawBarChart() {
             if ($("#barChart").length) {
-                ctxBar = document.getElementById("barChart").getContext(2d");
+                ctxBar = document.getElementById("barChart").getContext("2d");
 
                 optionsBar = {
                     responsive: true,
@@ -19422,7 +19422,7 @@ app.post('/check', (req, res) => {
 
         function drawBarChart2() {
             if ($("#barChart2").length) {
-                ctxBar2 = document.getElementById("barChart2").getContext(2d");
+                ctxBar2 = document.getElementById("barChart2").getContext("2d");
 
                 optionsBar2 = {
                     responsive: true,
@@ -19479,7 +19479,7 @@ app.post('/check', (req, res) => {
 
         function drawBarChart3() {
             if ($("#barChart3").length) {
-                ctxBar3 = document.getElementById("barChart3").getContext(2d");
+                ctxBar3 = document.getElementById("barChart3").getContext("2d");
 
                 optionsBar3 = {
                     responsive: true,
