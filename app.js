@@ -10712,7 +10712,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 15,
         COAT3: 22,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 16,
         DMT3: 18,
         Total: 232
