@@ -270,7 +270,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 25,
         COAT3: 25,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 24,
         DMT3: 24,
         Total: 334.5
@@ -500,7 +500,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 24,
         COAT3: 23,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 24,
         DMT3: 25,
         Total: 327.5
@@ -615,7 +615,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 25,
         COAT3: 24,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 25,
         DMT3: 24.5,
         Total: 326
@@ -638,7 +638,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 22,
         COAT3: 24,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 23.5,
         DMT3: 24.5,
         Total: 326
@@ -822,7 +822,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 20,
         COAT3: 24,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 24,
         DMT3: 24.5,
         Total: 321
@@ -960,7 +960,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 21,
         COAT3: 22,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 24,
         DMT3: 24.5,
         Total: 317.5
@@ -983,7 +983,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 23,
         COAT3: 24,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 24,
         DMT3: 23,
         Total: 317
@@ -1052,7 +1052,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 24,
         COAT3: 21,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 24,
         DMT3: 23,
         Total: 316.5
@@ -1167,7 +1167,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 23,
         COAT3: 20,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 25,
         DMT3: 24,
         Total: 313
@@ -1190,7 +1190,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 20,
         COAT3: 25,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 24,
         DMT3: 22.5,
         Total: 312.5
@@ -1282,7 +1282,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 23,
         COAT3: 23,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 23.5,
         DMT3: 23,
         Total: 312
@@ -1305,7 +1305,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 21,
         COAT3: 23,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 22,
         DMT3: 22,
         Total: 311.5
@@ -1374,7 +1374,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 24,
         COAT3: 24,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 25,
         DMT3: 24.5,
         Total: 311
@@ -1443,7 +1443,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 24,
         COAT3: 24,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 24,
         DMT3: 23,
         Total: 310
@@ -1512,7 +1512,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 17,
         COAT3: 24,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 23.5,
         DMT3: 22,
         Total: 309.5
@@ -1535,7 +1535,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 20,
         COAT3: 22.5,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 22.5,
         DMT3: 24.5,
         Total: 309
@@ -1604,7 +1604,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 24,
         COAT3: 23,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 25,
         DMT3: 21,
         Total: 308.5
@@ -1673,7 +1673,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 19,
         COAT3: 24,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 24,
         DMT3: 23.5,
         Total: 308
@@ -1765,7 +1765,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 25,
         COAT3: 22,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 23.5,
         DMT3: 24.5,
         Total: 305.5
@@ -1788,7 +1788,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 18,
         COAT3: 22,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 23.5,
         DMT3: 20.5,
         Total: 305.5
@@ -1903,7 +1903,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 18,
         COAT3: 24,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 24.5,
         DMT3: 24.5,
         Total: 304.5
@@ -1972,7 +1972,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 24,
         COAT3: 23,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 22.5,
         DMT3: 22,
         Total: 304
@@ -1995,7 +1995,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 21,
         COAT3: 24,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 25,
         DMT3: 22.5,
         Total: 304
@@ -2064,7 +2064,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 20,
         COAT3: 24,
-        FSD2T3: "24.0",
+        FSD2T3: 24,
         TOCT3: 24.5,
         DMT3: 24.5,
         Total: 303
@@ -2110,7 +2110,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 18,
         COAT3: 23,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 21,
         DMT3: 24,
         Total: 302.5
@@ -2248,7 +2248,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 21,
         COAT3: 22,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 22,
         DMT3: 22.5,
         Total: 301
@@ -2386,7 +2386,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 17,
         COAT3: 22.5,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 23,
         DMT3: 24,
         Total: 299.5
@@ -2432,7 +2432,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 20,
         COAT3: 23,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 21,
         DMT3: 23.5,
         Total: 299
@@ -2455,7 +2455,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 16,
         COAT3: 19,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 21.5,
         DMT3: 23.5,
         Total: 299
@@ -2478,7 +2478,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 19,
         COAT3: 23,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 19.5,
         DMT3: 23.5,
         Total: 299
@@ -2547,7 +2547,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 18,
         COAT3: 22,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 19.5,
         DMT3: 20,
         Total: 297.5
@@ -2593,7 +2593,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 18,
         COAT3: 22,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 23.5,
         DMT3: 22.5,
         Total: 296.5
@@ -2662,7 +2662,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 18,
         COAT3: 23,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 24.5,
         DMT3: 23,
         Total: 295.5
@@ -2685,7 +2685,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 22.5,
         COAT3: 21,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 23.5,
         DMT3: 22,
         Total: 295.5
@@ -2731,7 +2731,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 21,
         COAT3: 21,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 23,
         DMT3: 24,
         Total: 295
@@ -2754,7 +2754,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 17,
         COAT3: 23.5,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 18.5,
         DMT3: 25,
         Total: 294.5
@@ -2777,7 +2777,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 16,
         COAT3: 20.5,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 20.5,
         DMT3: 22,
         Total: 294.5
@@ -2823,7 +2823,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 18,
         COAT3: 23,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 20.5,
         DMT3: 23.5,
         Total: 294.5
@@ -2846,7 +2846,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 23,
         COAT3: 25,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 17.5,
         DMT3: 18,
         Total: 294.5
@@ -2869,7 +2869,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 21,
         COAT3: 22,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 13.5,
         DMT3: 24.5,
         Total: 294.5
@@ -2961,7 +2961,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 25,
         COAT3: 22,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 22.5,
         DMT3: 23.5,
         Total: 293
@@ -3030,7 +3030,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 16,
         COAT3: 23,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 19,
         DMT3: 23,
         Total: 293
@@ -3053,7 +3053,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 15,
         COAT3: 22,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 22,
         DMT3: 23,
         Total: 293
@@ -3191,7 +3191,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 16,
         COAT3: 24.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 22.5,
         DMT3: 22.5,
         Total: 292
@@ -3237,7 +3237,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 16,
         COAT3: 18,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 21,
         DMT3: 24.5,
         Total: 291.5
@@ -3306,7 +3306,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 18,
         COAT3: 20,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 22.5,
         DMT3: 23,
         Total: 291
@@ -3375,7 +3375,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 20,
         COAT3: 21,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 21.5,
         DMT3: 24.5,
         Total: 291
@@ -3421,7 +3421,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 24,
         COAT3: 23,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 25,
         DMT3: 23.5,
         Total: 291
@@ -3467,7 +3467,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 15,
         COAT3: 25,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 20.5,
         DMT3: 24,
         Total: 291
@@ -3513,7 +3513,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 19,
         COAT3: 24,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 20.5,
         DMT3: 23.5,
         Total: 290.5
@@ -3559,7 +3559,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 18,
         COAT3: 25,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 25,
         DMT3: 24,
         Total: 289.5
@@ -3628,7 +3628,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 18,
         COAT3: 22,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 22,
         DMT3: 23.5,
         Total: 288.5
@@ -3651,7 +3651,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 24,
         COAT3: 21.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 17,
         DMT3: 24,
         Total: 288
@@ -3835,7 +3835,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 21,
         COAT3: 23,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 16.5,
         DMT3: 20,
         Total: 286.5
@@ -3881,7 +3881,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 15.5,
         COAT3: 22,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 17,
         DMT3: 20.5,
         Total: 286.5
@@ -3950,7 +3950,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 16.5,
         COAT3: 22,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 17.5,
         DMT3: 24.5,
         Total: 285.5
@@ -3996,7 +3996,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 22,
         COAT3: 20.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 18,
         DMT3: 21.5,
         Total: 285
@@ -4111,7 +4111,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 21,
         COAT3: 20,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 24,
         DMT3: 22.5,
         Total: 284.5
@@ -4134,7 +4134,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 18,
         COAT3: 22.5,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 22.5,
         DMT3: 21.5,
         Total: 284.5
@@ -4157,7 +4157,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 22,
         COAT3: 21,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 20,
         DMT3: 22.5,
         Total: 284.5
@@ -4203,7 +4203,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 15,
         COAT3: 22,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 18.5,
         DMT3: 21,
         Total: 284
@@ -4249,7 +4249,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 16,
         COAT3: 21,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 20,
         DMT3: 14.5,
         Total: 284
@@ -4295,7 +4295,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 18,
         COAT3: 22,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 23,
         DMT3: 24.5,
         Total: 283.5
@@ -4341,7 +4341,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 17,
         COAT3: 20,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 21,
         DMT3: 24,
         Total: 283
@@ -4410,7 +4410,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 16,
         COAT3: 21.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 18.5,
         DMT3: 22,
         Total: 282.5
@@ -4502,7 +4502,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 24,
         COAT3: 23,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 23,
         DMT3: 24,
         Total: 280.5
@@ -4525,7 +4525,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 18,
         COAT3: 20,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 21.5,
         DMT3: 24,
         Total: 280
@@ -4548,7 +4548,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 17,
         COAT3: 23,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 19,
         DMT3: 22.5,
         Total: 280
@@ -4663,7 +4663,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 17,
         COAT3: 22.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 18,
         DMT3: 23,
         Total: 279
@@ -4686,7 +4686,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 22.5,
         COAT3: 21,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 18,
         DMT3: 19.5,
         Total: 279
@@ -4709,7 +4709,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 14,
         COAT3: 23.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 17,
         DMT3: 22.5,
         Total: 278.5
@@ -4755,7 +4755,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 13,
         COAT3: 23,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 17.5,
         DMT3: 20.5,
         Total: 278
@@ -4847,7 +4847,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 17.5,
         COAT3: 20.5,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 19,
         DMT3: 24,
         Total: 277.5
@@ -4916,7 +4916,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 16,
         COAT3: 20,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 20.5,
         DMT3: 22,
         Total: 277.5
@@ -4939,7 +4939,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 19,
         COAT3: 18,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 23,
         DMT3: 22,
         Total: 277.5
@@ -4985,7 +4985,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 14,
         COAT3: 19.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 21.5,
         DMT3: 23,
         Total: 277
@@ -5077,7 +5077,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 21.5,
         COAT3: 21.5,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 20.5,
         DMT3: 22.5,
         Total: 276.5
@@ -5146,7 +5146,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 16,
         COAT3: 22,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 16.5,
         DMT3: 24,
         Total: 276
@@ -5169,7 +5169,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 18,
         COAT3: 17.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 22.5,
         DMT3: 20,
         Total: 276
@@ -5215,7 +5215,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 16.5,
         COAT3: 18,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 17.5,
         DMT3: 23,
         Total: 275
@@ -5307,7 +5307,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 21,
         COAT3: 21,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 21,
         DMT3: 21.5,
         Total: 275
@@ -5330,7 +5330,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 16,
         COAT3: 23,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 17.5,
         DMT3: 25,
         Total: 274.5
@@ -5399,7 +5399,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 21,
         COAT3: 17.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 18,
         DMT3: 19.5,
         Total: 273
@@ -5445,7 +5445,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 14.5,
         COAT3: 18.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 21.5,
         DMT3: 23,
         Total: 273
@@ -5514,7 +5514,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 24,
         COAT3: 21,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 19.5,
         DMT3: 15,
         Total: 272.5
@@ -5560,7 +5560,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 22.5,
         COAT3: 18.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 19,
         DMT3: 21.5,
         Total: 272.5
@@ -5583,7 +5583,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 20.5,
         COAT3: 22.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 21,
         DMT3: 23,
         Total: 272.5
@@ -5652,7 +5652,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 20.5,
         COAT3: 20.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 17,
         DMT3: 22,
         Total: 272
@@ -5675,7 +5675,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 18.5,
         COAT3: 23,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 21.5,
         DMT3: 24.5,
         Total: 272
@@ -5698,7 +5698,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 18,
         COAT3: 21,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 19,
         DMT3: 24,
         Total: 272
@@ -5721,7 +5721,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 14,
         COAT3: 23.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 15.5,
         DMT3: 22.5,
         Total: 272
@@ -5813,7 +5813,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 15.5,
         COAT3: 18,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 22.5,
         DMT3: 21.5,
         Total: 270.5
@@ -5836,7 +5836,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 16,
         COAT3: 17.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 17.5,
         DMT3: 22,
         Total: 270
@@ -5859,7 +5859,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 18,
         COAT3: 20,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 20.5,
         DMT3: 22,
         Total: 270
@@ -5928,7 +5928,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 16,
         COAT3: 23,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 17.5,
         DMT3: 17.5,
         Total: 270
@@ -5951,7 +5951,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 19.5,
         COAT3: 22,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 13.5,
         DMT3: 19,
         Total: 270
@@ -5974,7 +5974,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 23,
         COAT3: 23,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 18.5,
         DMT3: 16,
         Total: 269.5
@@ -5997,7 +5997,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 24,
         COAT3: 20.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 14,
         DMT3: 17.5,
         Total: 269.5
@@ -6020,7 +6020,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 15,
         COAT3: 21,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 21.5,
         DMT3: 20,
         Total: 269.5
@@ -6043,7 +6043,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 11.5,
         COAT3: 20.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 16.5,
         DMT3: 19,
         Total: 269.5
@@ -6066,7 +6066,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 19,
         COAT3: 21.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 18.5,
         DMT3: 18.5,
         Total: 269
@@ -6089,7 +6089,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 14,
         COAT3: 22,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 22.5,
         DMT3: 20,
         Total: 268.5
@@ -6135,7 +6135,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 20.5,
         COAT3: 18.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 17.5,
         DMT3: 17.5,
         Total: 268
@@ -6158,7 +6158,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 16.5,
         COAT3: 22,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 21,
         DMT3: 19.5,
         Total: 268
@@ -6181,7 +6181,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 21,
         COAT3: 21.5,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 20,
         DMT3: 21,
         Total: 268
@@ -6204,7 +6204,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 17.5,
         COAT3: 21,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 14,
         DMT3: 21.5,
         Total: 267.5
@@ -6227,7 +6227,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 15.5,
         COAT3: 24,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 15,
         DMT3: 24.5,
         Total: 267.5
@@ -6365,7 +6365,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 16.5,
         COAT3: 18,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 20.5,
         DMT3: 21,
         Total: 266
@@ -6411,7 +6411,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 17,
         COAT3: 22,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 15,
         DMT3: 21,
         Total: 265.5
@@ -6480,7 +6480,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 12,
         COAT3: 22.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 18.5,
         DMT3: 22.5,
         Total: 264.5
@@ -6549,7 +6549,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 20,
         COAT3: 22,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 22.5,
         DMT3: 20,
         Total: 264
@@ -6572,7 +6572,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 18,
         COAT3: 20,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 19.5,
         DMT3: 13.5,
         Total: 263.5
@@ -6618,7 +6618,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 12,
         COAT3: 22,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 18.5,
         DMT3: 23.5,
         Total: 263.5
@@ -6641,7 +6641,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 18.5,
         COAT3: 20,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 22.5,
         DMT3: 19,
         Total: 263.5
@@ -6664,7 +6664,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19.5,
         FCSP2T3: 13,
         COAT3: 20,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 21,
         DMT3: 22.5,
         Total: 263.5
@@ -6802,7 +6802,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 16,
         COAT3: 19.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 21,
         DMT3: 15,
         Total: 262.5
@@ -6848,7 +6848,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 12.5,
         COAT3: 21,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 17.5,
         DMT3: 23.5,
         Total: 262
@@ -6894,7 +6894,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 13.5,
         COAT3: 20,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 20,
         DMT3: 21,
         Total: 262
@@ -7009,7 +7009,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 14,
         COAT3: 20,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 19,
         DMT3: 16.5,
         Total: 261
@@ -7055,7 +7055,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 17.5,
         COAT3: 19,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 16.5,
         DMT3: 23.5,
         Total: 261
@@ -7101,7 +7101,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 15,
         COAT3: 21.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 20.5,
         DMT3: 24.5,
         Total: 260.5
@@ -7124,7 +7124,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 13.5,
         COAT3: 20.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 21.5,
         DMT3: 23,
         Total: 260
@@ -7147,7 +7147,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 15.5,
         COAT3: 19,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 19,
         DMT3: 19.5,
         Total: 260
@@ -7170,7 +7170,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 14,
         COAT3: 20,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 16,
         DMT3: 25,
         Total: 259.5
@@ -7239,7 +7239,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 13.5,
         COAT3: 20,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 20.5,
         DMT3: 21.5,
         Total: 259.5
@@ -7262,7 +7262,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 9.5,
         COAT3: 23,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 20.5,
         DMT3: 19,
         Total: 259
@@ -7285,7 +7285,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 0,
         COAT3: 22,
-        FSD2T3: "23.0",
+        FSD2T3: 23,
         TOCT3: 20,
         DMT3: 21.5,
         Total: 258.5
@@ -7423,7 +7423,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 20.5,
         COAT3: 20,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 19.5,
         DMT3: 24,
         Total: 258
@@ -7515,7 +7515,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 14.5,
         COAT3: 21.5,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 20.5,
         DMT3: 20,
         Total: 257
@@ -7607,7 +7607,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 15,
         COAT3: 20.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 19.5,
         DMT3: 20.5,
         Total: 256.5
@@ -7630,7 +7630,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 15.5,
         COAT3: 23,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 16,
         DMT3: 24.5,
         Total: 256
@@ -7653,7 +7653,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 16,
         COAT3: 19,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 18.5,
         DMT3: 19,
         Total: 256
@@ -7676,7 +7676,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 15.5,
         COAT3: 15,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 20.5,
         DMT3: 16,
         Total: 256
@@ -7722,7 +7722,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 16,
         COAT3: 22,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 8,
         DMT3: 21.5,
         Total: 256
@@ -7929,7 +7929,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23.5,
         FCSP2T3: 13,
         COAT3: 17.5,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 22,
         DMT3: 10.5,
         Total: 254.5
@@ -8044,7 +8044,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 14.5,
         COAT3: 18,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 16,
         DMT3: 19,
         Total: 253.5
@@ -8067,7 +8067,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 15.5,
         COAT3: 22.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 20,
         DMT3: 22,
         Total: 253.5
@@ -8090,7 +8090,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 17,
         COAT3: 18.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 23,
         DMT3: 22,
         Total: 253
@@ -8159,7 +8159,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17.5,
         FCSP2T3: 13.5,
         COAT3: 20,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 22.5,
         DMT3: 23.5,
         Total: 252
@@ -8297,7 +8297,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 12.5,
         COAT3: 21,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 20,
         DMT3: 17.5,
         Total: 251
@@ -8504,7 +8504,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 15,
         COAT3: 20,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 17.5,
         DMT3: 23.5,
         Total: 250
@@ -8550,7 +8550,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 12.5,
         COAT3: 20,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 17,
         DMT3: 18,
         Total: 249.5
@@ -8573,7 +8573,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 12.5,
         COAT3: 19.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 16,
         DMT3: 24.5,
         Total: 249.5
@@ -8596,7 +8596,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 14,
         COAT3: 21,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 15.5,
         DMT3: 20,
         Total: 249
@@ -8619,7 +8619,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 16.5,
         COAT3: 13,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 22.5,
         DMT3: 20,
         Total: 249
@@ -8642,7 +8642,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 15.5,
         COAT3: 19,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 15.5,
         DMT3: 21,
         Total: 249
@@ -8688,7 +8688,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15,
         FCSP2T3: 10,
         COAT3: 17,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 19.5,
         DMT3: 24.5,
         Total: 249
@@ -8803,7 +8803,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 16.5,
         COAT3: 20,
-        FSD2T3: "22.0",
+        FSD2T3: 22,
         TOCT3: 13.5,
         DMT3: 20,
         Total: 248
@@ -8849,7 +8849,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 19.5,
         COAT3: 18,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 19,
         DMT3: 16,
         Total: 248
@@ -8895,7 +8895,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 14,
         COAT3: 22,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 20,
         DMT3: 23.5,
         Total: 248
@@ -8918,7 +8918,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24.5,
         FCSP2T3: 17,
         COAT3: 22,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 10.5,
         DMT3: 19,
         Total: 247.5
@@ -8941,7 +8941,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 13,
         COAT3: 18.5,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 21.5,
         DMT3: 24,
         Total: 247.5
@@ -9010,7 +9010,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17.5,
         FCSP2T3: 13,
         COAT3: 20.5,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 16.5,
         DMT3: 22,
         Total: 246.5
@@ -9194,7 +9194,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17.5,
         FCSP2T3: 11.5,
         COAT3: 21,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 20.5,
         DMT3: 24.5,
         Total: 245.5
@@ -9217,7 +9217,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17.5,
         FCSP2T3: 13,
         COAT3: 14,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 19.5,
         DMT3: 22,
         Total: 245.5
@@ -9309,7 +9309,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17.5,
         FCSP2T3: 16,
         COAT3: 19.5,
-        FSD2T3: "21.0",
+        FSD2T3: 21,
         TOCT3: 21.5,
         DMT3: 20.5,
         Total: 244.5
@@ -9378,7 +9378,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 12.5,
         COAT3: 21,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 17.5,
         DMT3: 21.5,
         Total: 244
@@ -9424,7 +9424,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 15,
         COAT3: 18.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 16,
         DMT3: 23.5,
         Total: 243.5
@@ -9516,7 +9516,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 17,
         COAT3: 19,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 19.5,
         DMT3: 23.5,
         Total: 243
@@ -9539,7 +9539,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 15.5,
         COAT3: 16.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 13.5,
         DMT3: 16.5,
         Total: 242.5
@@ -9631,7 +9631,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 17.5,
         COAT3: 12.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 18,
         DMT3: 23,
         Total: 242
@@ -9838,7 +9838,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 11.5,
         COAT3: 20,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 11,
         DMT3: 21,
         Total: 240.5
@@ -9861,7 +9861,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 20,
         COAT3: 18,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 19,
         DMT3: 15,
         Total: 240
@@ -9953,7 +9953,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 13.5,
         COAT3: 18,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 18,
         DMT3: 20.5,
         Total: 238.5
@@ -10022,7 +10022,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15,
         FCSP2T3: 12,
         COAT3: 22,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 15.5,
         DMT3: 20.5,
         Total: 238
@@ -10045,7 +10045,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 15,
         COAT3: 20.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 21,
         DMT3: 20.5,
         Total: 238
@@ -10068,7 +10068,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17.5,
         FCSP2T3: 12,
         COAT3: 18.5,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 16,
         DMT3: 24,
         Total: 238
@@ -10091,7 +10091,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19.5,
         FCSP2T3: 12,
         COAT3: 20,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 19.5,
         DMT3: 25,
         Total: 238
@@ -10137,7 +10137,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 16,
         COAT3: 21.5,
-        FSD2T3: "20.0",
+        FSD2T3: 20,
         TOCT3: 14,
         DMT3: 20.5,
         Total: 237.5
@@ -10183,7 +10183,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 13.5,
         FCSP2T3: 13,
         COAT3: 22,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 19,
         DMT3: 21,
         Total: 237
@@ -10206,7 +10206,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 12.5,
         COAT3: 17.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 17.5,
         DMT3: 22,
         Total: 237
@@ -10252,7 +10252,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 16,
         COAT3: 18,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 13,
         DMT3: 17,
         Total: 236.5
@@ -10390,7 +10390,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12.5,
         FCSP2T3: 12,
         COAT3: 18.5,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 19.5,
         DMT3: 21,
         Total: 235
@@ -10413,7 +10413,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 23,
         FCSP2T3: 16.5,
         COAT3: 19,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 17.5,
         DMT3: 21,
         Total: 234.5
@@ -10482,7 +10482,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 12.5,
         COAT3: 15,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 14.5,
         DMT3: 22,
         Total: 234
@@ -10643,7 +10643,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 11.5,
         COAT3: 20,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 16.5,
         DMT3: 22.5,
         Total: 232.5
@@ -10666,7 +10666,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 13.5,
         FCSP2T3: 16,
         COAT3: 21.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 7.5,
         DMT3: 14,
         Total: 232.5
@@ -10689,7 +10689,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19.5,
         FCSP2T3: 16,
         COAT3: 22.5,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 19,
         DMT3: 19,
         Total: 232.5
@@ -10758,7 +10758,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 12,
         COAT3: 16,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 16.5,
         DMT3: 19.5,
         Total: 231.5
@@ -10804,7 +10804,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15.5,
         FCSP2T3: 13.5,
         COAT3: 12,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 17.5,
         DMT3: 21,
         Total: 231.5
@@ -10850,7 +10850,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 7,
         COAT3: 19.5,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 21,
         DMT3: 24.5,
         Total: 231
@@ -11011,7 +11011,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 13,
         COAT3: 20,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 16,
         DMT3: 23,
         Total: 229.5
@@ -11103,7 +11103,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 13.5,
         COAT3: 18,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 15,
         DMT3: 16.5,
         Total: 229.5
@@ -11126,7 +11126,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 12,
         COAT3: 22.5,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 15,
         DMT3: 23.5,
         Total: 229.5
@@ -11241,7 +11241,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 13,
         COAT3: 16.5,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 16,
         DMT3: 17.5,
         Total: 228
@@ -11493,7 +11493,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 12.5,
         COAT3: 15,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 7,
         DMT3: 20,
         Total: 225.5
@@ -11516,7 +11516,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19.5,
         FCSP2T3: 12.5,
         COAT3: 16.5,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 16,
         DMT3: 23,
         Total: 225.5
@@ -11631,7 +11631,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 17,
         COAT3: 19,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 21.5,
         DMT3: 18,
         Total: 225
@@ -11700,7 +11700,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17.5,
         FCSP2T3: 12.5,
         COAT3: 21.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 9,
         DMT3: 23,
         Total: 224.5
@@ -11746,7 +11746,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19.5,
         FCSP2T3: 11.5,
         COAT3: 16,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 14.5,
         DMT3: 21,
         Total: 223.5
@@ -11792,7 +11792,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 14,
         FCSP2T3: 13,
         COAT3: 20,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 16,
         DMT3: 21.5,
         Total: 223.5
@@ -11838,7 +11838,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 10,
         COAT3: 17,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 20,
         DMT3: 23,
         Total: 223.5
@@ -11884,7 +11884,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 16,
         COAT3: 19,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 12.5,
         DMT3: 24,
         Total: 222.5
@@ -11907,7 +11907,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 15,
         COAT3: 20,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 20,
         DMT3: 20.5,
         Total: 222.5
@@ -12068,7 +12068,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 22,
         COAT3: 17.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 17,
         DMT3: 12.5,
         Total: 221
@@ -12091,7 +12091,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 14,
         FCSP2T3: 13.5,
         COAT3: 19.5,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 11.5,
         DMT3: 24,
         Total: 221
@@ -12114,7 +12114,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 15,
         COAT3: 21,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 19,
         DMT3: 22,
         Total: 220.5
@@ -12137,7 +12137,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22.5,
         FCSP2T3: 18,
         COAT3: 16,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 21.5,
         DMT3: 14.5,
         Total: 220
@@ -12160,7 +12160,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 12,
         COAT3: 21.5,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 15,
         DMT3: 22.5,
         Total: 220
@@ -12206,7 +12206,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 13,
         COAT3: 19,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 18.5,
         DMT3: 17,
         Total: 219.8
@@ -12367,7 +12367,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 13.5,
         COAT3: 20,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 10.5,
         DMT3: 16.5,
         Total: 218
@@ -12390,7 +12390,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 12.5,
         COAT3: 18.5,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 15.5,
         DMT3: 19.5,
         Total: 218
@@ -12482,7 +12482,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 15,
         COAT3: 19,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 21.5,
         DMT3: 9,
         Total: 217
@@ -12528,7 +12528,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 9,
         COAT3: 19.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 16.5,
         DMT3: 20.5,
         Total: 216.5
@@ -12551,7 +12551,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15.5,
         FCSP2T3: 12,
         COAT3: 19.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 18.5,
         DMT3: 23.5,
         Total: 216
@@ -12597,7 +12597,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 13.5,
         COAT3: 19,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 18,
         DMT3: 24,
         Total: 215.5
@@ -12666,7 +12666,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 7.5,
         COAT3: 21,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 16,
         DMT3: 24,
         Total: 215
@@ -12758,7 +12758,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 14.5,
         COAT3: 18,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 14.5,
         DMT3: 13,
         Total: 214.5
@@ -12781,7 +12781,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19.5,
         FCSP2T3: 14.5,
         COAT3: 19,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 12,
         DMT3: 20,
         Total: 214.5
@@ -12804,7 +12804,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 14,
         FCSP2T3: 11,
         COAT3: 21,
-        FSD2T3: "19.0",
+        FSD2T3: 19,
         TOCT3: 17.5,
         DMT3: 25,
         Total: 214.5
@@ -12988,7 +12988,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21.5,
         FCSP2T3: 9,
         COAT3: 21.5,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 11,
         DMT3: 16,
         Total: 213
@@ -13034,7 +13034,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 24,
         FCSP2T3: 11.5,
         COAT3: 12,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 11.5,
         DMT3: 5.5,
         Total: 212.5
@@ -13080,7 +13080,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 12,
         COAT3: 18,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 19,
         DMT3: 17,
         Total: 212.5
@@ -13149,7 +13149,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15,
         FCSP2T3: 8,
         COAT3: 18.5,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 16,
         DMT3: 22,
         Total: 212
@@ -13195,7 +13195,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20.5,
         FCSP2T3: 13,
         COAT3: 19,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 13.5,
         DMT3: 12.5,
         Total: 211.5
@@ -13218,7 +13218,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15.5,
         FCSP2T3: 14,
         COAT3: 17,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 17,
         DMT3: 18,
         Total: 211.5
@@ -13241,7 +13241,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 11,
         COAT3: 15.5,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 11,
         DMT3: 15,
         Total: 211
@@ -13770,7 +13770,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 11,
         COAT3: 15,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 13,
         DMT3: 11.5,
         Total: 206.5
@@ -13931,7 +13931,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 12,
         COAT3: 18,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 15,
         DMT3: 16.5,
         Total: 205
@@ -14000,7 +14000,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 6.5,
         COAT3: 16.5,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 18,
         DMT3: 18,
         Total: 204.5
@@ -14069,7 +14069,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 21,
         COAT3: 17,
-        FSD2T3: "17.0",
+        FSD2T3: 17,
         TOCT3: 13.5,
         DMT3: 15,
         Total: 204
@@ -14207,7 +14207,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 13,
         COAT3: 17,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 18.5,
         DMT3: 17,
         Total: 203
@@ -14322,7 +14322,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 8.5,
         COAT3: 12.5,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 12,
         DMT3: 21.5,
         Total: 201.5
@@ -14345,7 +14345,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 25,
         FCSP2T3: 18.5,
         COAT3: 19,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 10,
         DMT3: 19,
         Total: 201
@@ -14483,7 +14483,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 10.5,
         COAT3: 18.5,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 12.5,
         DMT3: 22.5,
         Total: 199.5
@@ -14621,7 +14621,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 14,
         COAT3: 17,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 18,
         DMT3: 17.5,
         Total: 196.5
@@ -14690,7 +14690,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 19,
         FCSP2T3: 14,
         COAT3: 20,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 16,
         DMT3: 16.5,
         Total: 196
@@ -14828,7 +14828,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 13,
         FCSP2T3: 10.5,
         COAT3: 14,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 10.5,
         DMT3: 21,
         Total: 194.5
@@ -14920,7 +14920,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 14,
         COAT3: 15,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 16,
         DMT3: 17.5,
         Total: 194
@@ -15012,7 +15012,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12.5,
         FCSP2T3: 11,
         COAT3: 16,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 14,
         DMT3: 16.5,
         Total: 193
@@ -15035,7 +15035,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 11,
         COAT3: 18,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 13.5,
         DMT3: 16.5,
         Total: 192.5
@@ -15127,7 +15127,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 13,
         COAT3: 19,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 17,
         DMT3: 16.5,
         Total: 191.8
@@ -15288,7 +15288,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 12,
         COAT3: 17,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 17,
         DMT3: 13.5,
         Total: 190
@@ -15334,7 +15334,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 22,
         FCSP2T3: 18,
         COAT3: 14,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 13.5,
         DMT3: 15.5,
         Total: 189.5
@@ -15380,7 +15380,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12,
         FCSP2T3: 9.5,
         COAT3: 18.5,
-        FSD2T3: "18.0",
+        FSD2T3: 18,
         TOCT3: 16,
         DMT3: 19,
         Total: 189
@@ -15702,7 +15702,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18.5,
         FCSP2T3: 12,
         COAT3: 15,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 9.5,
         DMT3: 18.5,
         Total: 186.5
@@ -15771,7 +15771,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 21,
         FCSP2T3: 13,
         COAT3: 19,
-        FSD2T3: "9.0",
+        FSD2T3: 9,
         TOCT3: 12.5,
         DMT3: 9.5,
         Total: 186
@@ -15840,7 +15840,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15,
         FCSP2T3: 11.5,
         COAT3: 15,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 11.5,
         DMT3: 18,
         Total: 185.5
@@ -15909,7 +15909,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 11.5,
         FCSP2T3: 9,
         COAT3: 17,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 13,
         DMT3: 14.5,
         Total: 184.5
@@ -16116,7 +16116,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 14,
         FCSP2T3: 12,
         COAT3: 19.5,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 18,
         DMT3: 17,
         Total: 181.5
@@ -16254,7 +16254,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 11.5,
         COAT3: 19,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 15,
         DMT3: 15.5,
         Total: 178.5
@@ -16359,7 +16359,7 @@ app.post('/check', (req, res) => {
         STUDENTNAME: "SUKHADIYA SAHIL PRAVINBHAI",
         DMT1: 14.5,
         COAT1: "AB",
-        DMT2: "12",
+        DMT2: 12,
         FCSP2T1: 15.5,
         FSD2T1: 8,
         FSD2T2: 18,
@@ -16369,7 +16369,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 17,
         FCSP2T3: 15,
         COAT3: 17,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         DMT3: 20,
         Total: 176
     },
@@ -16460,7 +16460,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 13,
         FCSP2T3: 11.5,
         COAT3: 16,
-        FSD2T3: "14.0",
+        FSD2T3: 14,
         TOCT3: 8,
         DMT3: 16,
         Total: 174.5
@@ -16483,7 +16483,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 11.5,
         COAT3: 14.5,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 9,
         DMT3: 15,
         Total: 174.5
@@ -16506,7 +16506,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 18,
         FCSP2T3: 15,
         COAT3: 14,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 15,
         DMT3: 14.5,
         Total: 174.5
@@ -16552,7 +16552,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 13,
         FCSP2T3: 9,
         COAT3: 16.5,
-        FSD2T3: "7.0",
+        FSD2T3: 7,
         TOCT3: 16,
         DMT3: 16.5,
         Total: 172.5
@@ -16759,7 +16759,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15,
         FCSP2T3: 13,
         COAT3: 14,
-        FSD2T3: "6.0",
+        FSD2T3: 6,
         TOCT3: 21.5,
         DMT3: 15.5,
         Total: 169
@@ -16805,7 +16805,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 15,
         COAT3: 16,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 9.5,
         DMT3: 16.5,
         Total: 167
@@ -16850,7 +16850,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 10,
         FCSP2T3: 11,
         COAT3: 21.5,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 7.5,
         DMT3: 14,
         Total: 166
@@ -16965,7 +16965,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12,
         FCSP2T3: 11,
         COAT3: 11,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 9.5,
         DMT3: 18.5,
         Total: 164.5
@@ -17011,7 +17011,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 11,
         FCSP2T3: 6,
         COAT3: 12.5,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 12,
         DMT3: 11,
         Total: 163.5
@@ -17080,7 +17080,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12,
         FCSP2T3: 10.5,
         COAT3: 9,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 9.5,
         DMT3: 14.5,
         Total: 163
@@ -17241,7 +17241,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 14,
         FCSP2T3: 11,
         COAT3: 9.5,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 11,
         DMT3: 14.5,
         Total: 161
@@ -17264,7 +17264,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 10,
         COAT3: 17.5,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         TOCT3: 13.5,
         DMT3: 17.5,
         Total: 160.5
@@ -17287,7 +17287,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12.5,
         FCSP2T3: 11,
         COAT3: 14.5,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 14,
         DMT3: 18.5,
         Total: 160
@@ -17471,7 +17471,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12.5,
         FCSP2T3: 8,
         COAT3: 13.5,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 8.5,
         DMT3: 15.5,
         Total: 156
@@ -17517,7 +17517,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 20,
         FCSP2T3: 11,
         COAT3: 18,
-        FSD2T3: "15.0",
+        FSD2T3: 15,
         DMT3: 9,
         Total: 155.5
     },
@@ -17539,7 +17539,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15,
         FCSP2T3: 11,
         COAT3: 16,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 6.5,
         DMT3: 7.5,
         Total: 155
@@ -17723,7 +17723,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 13,
         FCSP2T3: 7,
         COAT3: 14,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 10.5,
         DMT3: 14,
         Total: 149
@@ -17746,7 +17746,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 16,
         FCSP2T3: 9,
         COAT3: 7.5,
-        FSD2T3: "9.0",
+        FSD2T3: 9,
         TOCT3: 7.5,
         DMT3: 14.5,
         Total: 148.5
@@ -17769,7 +17769,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 0,
         FCSP2T3: 9,
         COAT3: 13.5,
-        FSD2T3: "8.0",
+        FSD2T3: 8,
         TOCT3: 12,
         DMT3: 16.5,
         Total: 148
@@ -17792,7 +17792,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 6,
         FCSP2T3: 9,
         COAT3: 15.5,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 16,
         DMT3: 9.5,
         Total: 147.5
@@ -17884,7 +17884,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12.5,
         FCSP2T3: 8.5,
         COAT3: 17.5,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 7,
         DMT3: 14,
         Total: 146
@@ -17907,7 +17907,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12,
         FCSP2T3: 9,
         COAT3: 13.5,
-        FSD2T3: "8.0",
+        FSD2T3: 8,
         TOCT3: 11,
         DMT3: 11.5,
         Total: 145.5
@@ -17953,7 +17953,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12.5,
         FCSP2T3: 10,
         COAT3: 16.5,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 4.5,
         DMT3: 9.5,
         Total: 144.5
@@ -17976,7 +17976,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 11.5,
         FCSP2T3: 10.5,
         COAT3: 17,
-        FSD2T3: "16.0",
+        FSD2T3: 16,
         TOCT3: 9,
         DMT3: 3,
         Total: 144.5
@@ -18022,7 +18022,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 14,
         FCSP2T3: 5,
         COAT3: 16,
-        FSD2T3: "12.0",
+        FSD2T3: 12,
         TOCT3: 8.5,
         DMT3: 9,
         Total: 143.5
@@ -18045,7 +18045,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 13.5,
         FCSP2T3: 10,
         COAT3: 11,
-        FSD2T3: "5.0",
+        FSD2T3: 5,
         TOCT3: 14,
         DMT3: 14.5,
         Total: 143
@@ -18068,7 +18068,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 12.5,
         FCSP2T3: 10.5,
         COAT3: 14,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 10.5,
         DMT3: 13.5,
         Total: 141.5
@@ -18137,7 +18137,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 9,
         FCSP2T3: 12,
         COAT3: 14.5,
-        FSD2T3: "9.0",
+        FSD2T3: 9,
         TOCT3: 11.5,
         DMT3: 9,
         Total: 140.5
@@ -18252,7 +18252,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 11,
         FCSP2T3: 9,
         COAT3: 17.5,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 7.5,
         DMT3: 10,
         Total: 135
@@ -18344,7 +18344,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 13.5,
         FCSP2T3: 7.5,
         COAT3: 10,
-        FSD2T3: "8.0",
+        FSD2T3: 8,
         TOCT3: 15,
         DMT3: 12.5,
         Total: 126.5
@@ -18459,7 +18459,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15.5,
         FCSP2T3: 12,
         COAT3: 9,
-        FSD2T3: "7.0",
+        FSD2T3: 7,
         TOCT3: 3,
         DMT3: 3.5,
         Total: 123
@@ -18482,7 +18482,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 6,
         FCSP2T3: 5.5,
         COAT3: 15,
-        FSD2T3: "7.0",
+        FSD2T3: 7,
         TOCT3: 14,
         DMT3: 9,
         Total: 122
@@ -18505,7 +18505,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 10,
         FCSP2T3: 9,
         COAT3: 13.5,
-        FSD2T3: "6.0",
+        FSD2T3: 6,
         TOCT3: 12.5,
         DMT3: 12.5,
         Total: 121
@@ -18528,7 +18528,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 9,
         FCSP2T3: 9,
         COAT3: 13,
-        FSD2T3: "10.0",
+        FSD2T3: 10,
         TOCT3: 5.5,
         DMT3: 7,
         Total: 121
@@ -18643,7 +18643,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 0,
         FCSP2T3: 6,
         COAT3: 14.5,
-        FSD2T3: "5.0",
+        FSD2T3: 5,
         TOCT3: 8,
         DMT3: 2,
         Total: 111
@@ -18735,7 +18735,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 11,
         FCSP2T3: 6.5,
         COAT3: 3,
-        FSD2T3: "7.0",
+        FSD2T3: 7,
         TOCT3: 9.5,
         DMT3: 1.5,
         Total: 103.5
@@ -18781,7 +18781,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 15,
         FCSP2T3: 9,
         COAT3: 13,
-        FSD2T3: "11.0",
+        FSD2T3: 11,
         TOCT3: 3.5,
         DMT3: 5.5,
         Total: 103
@@ -18827,7 +18827,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 9.5,
         FCSP2T3: 6,
         COAT3: 11.5,
-        FSD2T3: "6.0",
+        FSD2T3: 6,
         TOCT3: 4,
         DMT3: 1.5,
         Total: 93.5
@@ -18873,7 +18873,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 9.5,
         FCSP2T3: 8.5,
         COAT3: 2,
-        FSD2T3: "8.0",
+        FSD2T3: 8,
         TOCT3: 4,
         DMT3: 1,
         Total: 84
@@ -18919,7 +18919,7 @@ app.post('/check', (req, res) => {
         FCSP2T2: 8.5,
         FCSP2T3: 11,
         COAT3: 11.5,
-        FSD2T3: "13.0",
+        FSD2T3: 13,
         TOCT3: 4,
         DMT3: 7,
         Total: 80.5
@@ -19184,7 +19184,7 @@ app.post('/check', (req, res) => {
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1>
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Marksheet | Abhijit</title>
     
@@ -19302,7 +19302,7 @@ app.post('/check', (req, res) => {
 
         function drawLineChart() {
             if ($("#lineChart").length) {
-                ctxLine = document.getElementById("lineChart").getContext("2d");
+                ctxLine = document.getElementById("lineChart").getContext(2d");
                 optionsLine = {
                     scales: {
                         yAxes: [
@@ -19363,7 +19363,7 @@ app.post('/check', (req, res) => {
 
         function drawBarChart() {
             if ($("#barChart").length) {
-                ctxBar = document.getElementById("barChart").getContext("2d");
+                ctxBar = document.getElementById("barChart").getContext(2d");
 
                 optionsBar = {
                     responsive: true,
@@ -19422,7 +19422,7 @@ app.post('/check', (req, res) => {
 
         function drawBarChart2() {
             if ($("#barChart2").length) {
-                ctxBar2 = document.getElementById("barChart2").getContext("2d");
+                ctxBar2 = document.getElementById("barChart2").getContext(2d");
 
                 optionsBar2 = {
                     responsive: true,
@@ -19479,7 +19479,7 @@ app.post('/check', (req, res) => {
 
         function drawBarChart3() {
             if ($("#barChart3").length) {
-                ctxBar3 = document.getElementById("barChart3").getContext("2d");
+                ctxBar3 = document.getElementById("barChart3").getContext(2d");
 
                 optionsBar3 = {
                     responsive: true,
