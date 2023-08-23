@@ -13393,7 +13393,7 @@ app.post('/check', (req, res) => {
         DMT1: 13,
         COAT1: 7,
         DMT2: 16.5,
-        FCSP2T1: 7.5,
+        FCSP2T1: 12.5,
         FSD2T1: 6.5,
         FSD2T2: 16.5,
         COAT2: 10,
