@@ -1648,7 +1648,7 @@ app.post('/check', (req, res) => {
         TOCT1: 16,
         TOCT2: 20,
         FCSP2T2: 25,
-        FCSP2T3: 0,
+        FCSP2T3: 21.5,
         COAT3: 8,
         FSD2T3: 19,
         TOCT3: 22,
