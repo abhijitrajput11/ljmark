@@ -1633,7 +1633,7 @@ app.post('/check', (req, res) => {
         Total: 308
     },
     {
-        RANK: 70,
+        RANK: 46,
         BRANCH: "CSED2D",
         ROLLNO: 34,
         BatchDiv: "B1",
@@ -8510,7 +8510,7 @@ app.post('/check', (req, res) => {
         Total: 250
     },
     {
-        RANK: 370,
+        RANK: 358,
         BRANCH: "CSED2D",
         ROLLNO: 150,
         BatchDiv: "B5",
