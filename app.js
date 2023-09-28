@@ -23344,9 +23344,9 @@ app.post('/check', (req, res) => {
     <title>Marksheet | Abhijit</title>
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
-    <link rel="stylesheet" href="fontawesome.min.css">
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="tooplate.css">
+    <link rel="stylesheet" href="./fontawesome.min.css">
+    <link rel="stylesheet" href="./bootstrap.min.css">
+    <link rel="stylesheet" href="./tooplate.css">
 </head>
 
 <body id="reportsPage">
