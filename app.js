@@ -23853,12 +23853,7 @@ app.post('/check', (req, res) => {
           }
       }
 
-        function reloadPage() {
-            setTimeout(function () {
-                window.location.reload();
-            }); // Reload the page so that charts will display correctly
-        }
-
+       
         
     </script>
 </body>
