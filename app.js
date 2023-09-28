@@ -8,7 +8,7 @@ app.use(express.static(staticpath, { index: "index.html" }));
 const port = 3000
 
 app.post('/check', (req, res) => {
-  preventDefault()
+  
 
   // var n = document.getElementById("dig").value;
   // var c = document.getElementById("class").value;
