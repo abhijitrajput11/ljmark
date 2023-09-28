@@ -23417,10 +23417,10 @@ app.post('/check', (req, res) => {
 
         </div>
     </div>
-    <script src="jquery-3.3.1.min.js"></script>
-    <script src="moment.min.js"></script>
-    <script src="utils.js"></script>
-    <script src="Chart.min.js"></script>
+    <script src="./jquery-3.3.1.min.js"></script>
+    <script src="./moment.min.js"></script>
+    <script src="./utils.js"></script>
+    <script src="./Chart.min.js"></script>
     <script>
 
     document.addEventListener('contextmenu',function(e){
