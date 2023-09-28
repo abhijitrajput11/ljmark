@@ -23760,7 +23760,7 @@ app.post('/check', (req, res) => {
                       labels: ["DM", "COA", "TOC", "FCSP","FSD"],
                       datasets: [
                           {
-                              label: "T3",
+                              label: "T4",
                               data: [${marks[i].DMT4},${marks[i].COAT4},${marks[i].TOCT4},${marks[i].FCSP2T4},${marks[i].FSD2T4}],
                               backgroundColor: [
                                   "rgba(255, 99, 132, 0.2)",
