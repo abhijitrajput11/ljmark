@@ -5,7 +5,7 @@ const path = require('path');
 const staticpath = path.join(__dirname)
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(staticpath, { index: "index.html" }));
-const port = 4000
+const port = 3000
 
 app.post('/check', (req, res) => {
 
