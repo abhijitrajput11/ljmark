@@ -11,7 +11,7 @@ app.post('/check', (req, res) => {
   
 
   // var n = document.getElementById("dig").value;
-  // var c = document.getElementById("class").value;
+  // vtar c = document.getElementById("class").value;
   // console.log(n)
   // console.log(marks[0].ROLLNO);
   var marks = [
